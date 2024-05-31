@@ -2,15 +2,6 @@
 layout: default
 title: Home
 ---
-# Welcome to Triton
-
-This is the draft version of the API documentation.
-
-## Section Heading
-
-This is a sample section to test the heading styles.
-
-### Subsection Heading
 
 ## Table of Contents
 1. [API Authentication](#api-authentication)
