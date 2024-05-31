@@ -7,12 +7,19 @@
   --footer-bg-color: #f6f8fa;
   --footer-text-color: #586069;
 }
-span {
+code .p,
+code .w,
+code .nl,
+code .mi,
+code .s2 {
   color: #990000;
   font-weight: bold;
 }
 
-span span {
+/* Custom Styles for Values within Code */
+code .p,
+code .mi,
+code .s2 {
   color: #d14;
 }
 
