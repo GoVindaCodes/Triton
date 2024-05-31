@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+---
+
+
 ## Table of Contents
 1. [API Authentication](#api-authentication)
 2. [User Management](#user-management)
